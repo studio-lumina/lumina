@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lumina/static/css/main.f1332db8.css",
-    "main.js": "/lumina/static/js/main.94f36803.js",
+    "main.js": "/lumina/static/js/main.dea0d31a.js",
     "static/media/animation-landing-page.mp4": "/lumina/static/media/animation-landing-page.e667870cc57d6e2ae886.mp4",
     "static/media/scentception_video.mp4": "/lumina/static/media/scentception_video.c572c8919763b4fb1a38.mp4",
     "static/media/rituel_spa-video.mp4": "/lumina/static/media/rituel_spa-video.c58ff7f060d016eef229.mp4",
@@ -54,7 +54,6 @@
     "static/media/mockup_testerstand.png": "/lumina/static/media/mockup_testerstand.6c8b8965b106131fcf39.png",
     "static/media/cover_laneige.jpg": "/lumina/static/media/cover_laneige.e9b1d0abdf6e4e25c25b.jpg",
     "static/media/board_11.jpg": "/lumina/static/media/board_11.34f8aec283153b3226ec.jpg",
-    "static/media/cover_chanel.jpg": "/lumina/static/media/cover_chanel.464acec1b6b22bc25ce0.jpg",
     "static/media/mockup_display.png": "/lumina/static/media/mockup_display.bcc502a738c55660de2b.png",
     "static/media/cover_qiriness.jpg": "/lumina/static/media/cover_qiriness.fad201b5c7ea7b3cdeb1.jpg",
     "static/media/board_10.jpg": "/lumina/static/media/board_10.23b741e15403833e74c5.jpg",
@@ -73,9 +72,9 @@
     "static/media/board_9.jpg": "/lumina/static/media/board_9.caeeac24621a35a0c891.jpg",
     "static/media/post_instagram_2.png": "/lumina/static/media/post_instagram_2.9c7e89d43564240bd178.png",
     "static/media/miniature-video-yt.jpg": "/lumina/static/media/miniature-video-yt.15c165857d8dffa641ff.jpg",
-    "static/media/cover_grigri.png": "/lumina/static/media/cover_grigri.dea9f6a02219bf68ea14.png",
     "static/media/website-mockup_laptop.png": "/lumina/static/media/website-mockup_laptop.d94016247b22b8fca21b.png",
     "static/media/website-mockup_phone.png": "/lumina/static/media/website-mockup_phone.75de05c9c240f08f3068.png",
+    "static/media/cover_grigri.png": "/lumina/static/media/cover_grigri.7a516af33cd6396f100f.png",
     "static/media/moodboard_concept_4.jpg": "/lumina/static/media/moodboard_concept_4.9c35fad22a2e8a7f339a.jpg",
     "static/media/cover_scentception.jpg": "/lumina/static/media/cover_scentception.1f644089c81837816259.jpg",
     "static/media/moodboard_concept_6.jpg": "/lumina/static/media/moodboard_concept_6.afda0ac0f2ccdbeaa09f.jpg",
@@ -86,12 +85,13 @@
     "static/media/board_6.jpg": "/lumina/static/media/board_6.dfbbf27d33f6b8daa33d.jpg",
     "static/media/fete_meres-mockup_display.jpg": "/lumina/static/media/fete_meres-mockup_display.abcf9189680a765eda23.jpg",
     "static/media/caresse_source_eau_riche-web_banner.jpg": "/lumina/static/media/caresse_source_eau_riche-web_banner.565629117ef8b6f71eef.jpg",
-    "static/media/CV_Lucie_Ramadan-Lumina.pdf": "/lumina/static/media/CV_Lucie_Ramadan-Lumina.bec374eaee4e5964345f.pdf",
+    "static/media/CV_Lucie_Ramadan-Lumina.pdf": "/lumina/static/media/CV_Lucie_Ramadan-Lumina.660f509ea7318f3983a1.pdf",
     "static/media/board_13.jpg": "/lumina/static/media/board_13.e285e4d3e08f6d917d8f.jpg",
     "static/media/mockup_phone.png": "/lumina/static/media/mockup_phone.e914d59de877accce4cd.png",
     "static/media/mockup_n5.png": "/lumina/static/media/mockup_n5.b11696f0a5ed58ac6332.png",
     "static/media/feed_instagram-mockup_phone.png": "/lumina/static/media/feed_instagram-mockup_phone.27aa7746ea38cc1837e7.png",
     "static/media/mockup_mini_testerstand.png": "/lumina/static/media/mockup_mini_testerstand.8f6b69934a986846b07a.png",
+    "static/media/cover_chanel.jpg": "/lumina/static/media/cover_chanel.e0fb462c7fed38fb6f6b.jpg",
     "static/media/fete_meres-mockup_FSU.png": "/lumina/static/media/fete_meres-mockup_FSU.e29825b689e0bb84acce.png",
     "static/media/post_instagram_1.png": "/lumina/static/media/post_instagram_1.156f5e6af5e8e8cd7ad7.png",
     "static/media/post_instagram_3.png": "/lumina/static/media/post_instagram_3.554b634b43533af1c637.png",
@@ -126,10 +126,10 @@
     "static/media/afacad-cyrillic-ext-400-normal.woff": "/lumina/static/media/afacad-cyrillic-ext-400-normal.bc2a7904d2674b59add5.woff",
     "static/media/afacad-cyrillic-ext-400-normal.woff2": "/lumina/static/media/afacad-cyrillic-ext-400-normal.740eeed476b078fc083a.woff2",
     "main.f1332db8.css.map": "/lumina/static/css/main.f1332db8.css.map",
-    "main.94f36803.js.map": "/lumina/static/js/main.94f36803.js.map"
+    "main.dea0d31a.js.map": "/lumina/static/js/main.dea0d31a.js.map"
   },
   "entrypoints": [
     "static/css/main.f1332db8.css",
-    "static/js/main.94f36803.js"
+    "static/js/main.dea0d31a.js"
   ]
 }
