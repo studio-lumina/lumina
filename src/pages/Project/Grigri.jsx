@@ -481,7 +481,7 @@ export default function Grigri() {
               <ImageMockupLaptop alt="Landing page" src={MockupLaptop} />
 
               <VideoGrigri
-                src="https://www.youtube.com/embed/atdXfRbT_5k?si=XwvmoXA3PqBmMg5t&controls=1&rel=0"
+                src="https://www.youtube.com/embed/-txObBd-2u0?si=o9zP8UhWRvGvNFiO&controls=1&rel=0"
                 allow="autoplay;"
                 allowFullScreen
               />
