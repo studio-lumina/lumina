@@ -35,6 +35,50 @@ const projects = [
     ],
   },
   {
+    name: 'GRIGRI',
+    link: 'grigri',
+    image: coverGrigri,
+    type: ['Digital', 'Vidéo', 'Print'],
+    date: '2023 - 2024',
+    details: [
+      {
+        type: 'Veille',
+        descriptions: [
+          'Benchmarks',
+          'Brainstorm',
+          'Statégie',
+          'Moodboards',
+          'D.A.',
+        ],
+      },
+      {
+        type: 'Digital',
+        descriptions: ['Posts & Stories Instagram'],
+      },
+      {
+        type: 'Vidéo',
+        descriptions: [
+          'Pré-Prod',
+          'Production',
+          'Post-Prod avec Montage Vidéo & Motion Design',
+        ],
+      },
+    ],
+  },
+  {
+    name: 'Chanel',
+    link: 'chanel',
+    image: coverChanel,
+    type: ['Print'],
+    date: '2023 - 2024',
+    details: [
+      {
+        type: 'Print',
+        descriptions: ['PLV'],
+      },
+    ],
+  },
+  {
     name: 'Qiriness',
     link: 'qiriness',
     image: coverQiriness,
@@ -65,19 +109,6 @@ const projects = [
       {
         type: 'Print',
         descriptions: ['Packagings', 'PLV', 'Mises en Page'],
-      },
-    ],
-  },
-  {
-    name: 'Chanel',
-    link: 'chanel',
-    image: coverChanel,
-    type: ['Print'],
-    date: '2023 - 2024',
-    details: [
-      {
-        type: 'Print',
-        descriptions: ['PLV'],
       },
     ],
   },
@@ -126,37 +157,6 @@ const projects = [
         type: 'Vidéo',
         descriptions: [
           'Pré-Prod',
-          'Post-Prod avec Montage Vidéo & Motion Design',
-        ],
-      },
-    ],
-  },
-  {
-    name: 'GRIGRI',
-    link: 'grigri',
-    image: coverGrigri,
-    type: ['Digital', 'Vidéo', 'Print'],
-    date: '2023 - 2024',
-    details: [
-      {
-        type: 'Veille',
-        descriptions: [
-          'Benchmarks',
-          'Brainstorm',
-          'Statégie',
-          'Moodboards',
-          'D.A.',
-        ],
-      },
-      {
-        type: 'Digital',
-        descriptions: ['Posts & Stories Instagram'],
-      },
-      {
-        type: 'Vidéo',
-        descriptions: [
-          'Pré-Prod',
-          'Production',
           'Post-Prod avec Montage Vidéo & Motion Design',
         ],
       },
