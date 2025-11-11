@@ -2,7 +2,7 @@ import coverChanel from '../assets/covers/cover_chanel.jpg'
 import coverModeEtSport from '../assets/covers/cover_modeetsport.jpg'
 import coverQiriness from '../assets/covers/cover_qiriness.jpg'
 import coverScentception from '../assets/covers/cover_scentception.jpg'
-import coverGrigri from '../assets/covers/cover_grigri.png'
+import coverGrigri from '../assets/covers/cover_grigri.jpg'
 import coverLaneige from '../assets/covers/cover_laneige.jpg'
 
 const projects = [
